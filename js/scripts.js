@@ -1,8 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
 $(document).ready(function() {
-  $("#robotForm").submit(function(event){
+  $("form#robotForm").submit(function(event){
     event.preventDefault();
-    var userInput = parseInt($("#userInput").val());
-    $("#answers").show();
+    console.log("submitted")
+    var userInput = ($("input#userInput").val());
+    $("#answers").text(result);
 
   })
 })
