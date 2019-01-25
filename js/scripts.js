@@ -1,3 +1,23 @@
+function test(input) {
+
+  var results = [];
+  for (var i = 1; i <= input; i++) {
+
+    if (i % 3 == 0 ) {
+      results.push("I'm sorry, Dave. I'm afraid I can't do that.");
+    } else if (i.toString().match(/0/)) {
+      results.push("Beep!")
+
+    } else if (i.toString().match(/1/)) {
+      results.push("Boop!")
+
+    } else {
+      results.push(i);
+    }
+  }
+  return results;
+}
+
 $(document).ready(function() {
   $("form#robotForm").submit(function(event){
     event.preventDefault();
