@@ -5,6 +5,7 @@ function test(input) {
 
     if (i % 3 == 0 ) {
       results.push(" I'm sorry, Dave. I'm afraid I can't do that.");
+      
     } else if (i.toString().match(/1/)) {
       results.push(" Beep!")
 
@@ -17,7 +18,7 @@ function test(input) {
   }
   return results;
 }
-// above
+// above is the back-end logic //
 // The below function is for the user-interface logic//
 
 $(document).ready(function() {
