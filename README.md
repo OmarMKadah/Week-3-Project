@@ -17,3 +17,12 @@ The BeEp BoOP program is intended to manipulate the users number inputs and retu
    * When a "2" is entered at any point in a given entry, it will return "Boop!"
 
    * When a "3" is entered at any point in a given entry, it will return "I'm sorry, Dave. I'm afraid I can't do that!"
+
+
+   Contact:
+
+   If you have any problems, questions, ideas or suggestions, please contact me at:
+   	OmarMKadah@gmail.com
+
+   Notice:
+   	Discover your first Programming Language contains pieces of code that is Copyright (c) 2019.
