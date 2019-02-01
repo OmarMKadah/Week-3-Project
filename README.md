@@ -1,10 +1,12 @@
-Program: "BeEp BoOP"
+# BeEp BoOP
 
-Created by Omar Kadah
+#### 01/31/2019 The BeEp BoOP program is intended to manipulate the users number inputs and return them in a robot like response. Below lists the type of manipulations that will be outputted.
 
-Download/clone the repository Week-3 to your desktop. open file 'Index.html' in your preferred web browser and begin using the program by entering in your number.
+#### Created by Omar Kadah
 
-The BeEp BoOP program is intended to manipulate the users number inputs and return them in a robot like response. Below lists the type of manipulations that will be outputted.
+## Setup/Installation
+
+#### Download/clone the repository Week-3 to your desktop. open file 'Index.html' in your preferred web browser and begin using the program by entering in your number.
 
 * The program returns a range of numbers from 0 to the users inputted number
   * Input: "4"
@@ -18,11 +20,13 @@ The BeEp BoOP program is intended to manipulate the users number inputs and retu
 
    * When a "3" is entered at any point in a given entry, it will return "I'm sorry, Dave. I'm afraid I can't do that!"
 
+# There are no known bugs
 
-   Contact:
+# Contact:
 
    If you have any problems, questions, ideas or suggestions, please contact me at:
    	OmarMKadah@gmail.com
 
-   Notice:
+
+## Notice:
    	Discover your first Programming Language contains pieces of code that is Copyright (c) 2019.
