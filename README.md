@@ -20,7 +20,10 @@
 
    * When a "3" is entered at any point in a given entry, it will return "I'm sorry, Dave. I'm afraid I can't do that!"
 
-# There are no known bugs
+
+## Issues
+
+There are no known bugs
 
 # Contact:
 
